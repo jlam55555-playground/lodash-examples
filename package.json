@@ -1,0 +1,16 @@
+{
+  "name": "lodash-examples",
+  "description": "Learning how to use lodash",
+  "author": "Jonathan Lam <jlam55555@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/jlam55555-playground/lodash-examples"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.155",
+    "typescript": "^3.9.5"
+  }
+}
