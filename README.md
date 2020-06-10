@@ -1,7 +1,7 @@
 # lodash-examples
 Learning how to use lodash
 
-Mostly just following along with the [reference page][1] and trying out most of the functions with some of my own examples.
+Mostly just following along with the [reference page][1] and trying out most of the (notable, interesting?) functions with some of my own examples.
 
 ### Build instructions
 ```shell script

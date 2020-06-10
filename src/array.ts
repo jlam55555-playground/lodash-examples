@@ -2,6 +2,8 @@ import * as _ from 'lodash';
 
 // simply copying arrays (in the case of mutation)
 const arrcpy = arr => [...arr];
+// I forgot about the slice method at first, this also works:
+// const arrcpy = arr => arr.slice();
 
 const arr1 = [2, 6, 2, 4, 5, -2, 9, 0];
 const arr2 = [true, false, -1, undefined, '', null];
